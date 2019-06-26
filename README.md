@@ -1,4 +1,4 @@
 # hello-world
-my first repository
+my first
 this is a test
 this is my second update
